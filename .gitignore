@@ -1,0 +1,25 @@
+# Azure credentials
+*.json
+*.pem
+*.key
+
+# PowerShell
+*.ps1xml
+
+# Logs
+*.log
+logs/
+
+# Reports
+reports/
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
